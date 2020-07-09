@@ -6,10 +6,9 @@
 /*   By: josekgob <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/09 13:24:59 by josekgob          #+#    #+#             */
-/*   Updated: 2020/07/09 13:32:38 by josekgob         ###   ########.fr       */
+/*   Updated: 2020/07/09 14:03:38 by josekgob         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <unistd.h>
 
 void ft_putchar(char c);
 
@@ -23,8 +22,5 @@ void ft_print_reverse_alphabet (void) {
   }
 }
 
-int main(void) {
-  ft_print_reverse_alphabet();
-  return 0;
-}
+
 
