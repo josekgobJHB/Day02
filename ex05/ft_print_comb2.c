@@ -6,11 +6,11 @@
 /*   By: josekgob <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/10 14:53:35 by josekgob          #+#    #+#             */
-/*   Updated: 2020/07/12 14:45:02 by josekgob         ###   ########.fr       */
+/*   Updated: 2020/07/12 15:04:11 by josekgob         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_putchar(ch c);
+void ft_putchar(char c);
 
 void ft_print_comb2(void)
 {
